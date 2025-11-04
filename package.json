@@ -1,0 +1,25 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cross-env ENV=QA cucumber-js --config=config/cucumber.js --tags=@vonageLogin || true",
+    "posttest": "npx ts-node src/helper/report/report.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^11.1.0",
+    "@playwright/test": "^1.48.2",
+    "@types/node": "^22.9.0",
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.4.5",
+    "multiple-cucumber-html-reporter": "^3.3.0",
+    "ts-node": "^10.9.2"
+  },
+  "dependencies": {
+    "playwright": "^1.52.0"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "cookies": [
+    {
+      "name": "okta_user_lang",
+      "value": "en",
+      "domain": "login.okta.vonage.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "DT",
+      "value": "DI1QBPyyAkdQ-SJj-joTvltLg",
+      "domain": "login.okta.vonage.com",
+      "path": "/",
+      "expires": 1796382485.288823,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ln",
+      "value": "outs-sjakkam",
+      "domain": "login.okta.vonage.com",
+      "path": "/",
+      "expires": 1793787905,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "proximity_32432a701e711c84f589eec5f91332de",
+      "value": "eyJ6aXAiOiJERUYiLCJwMnMiOiJuQ1RucmF0X3V6WWxUQVNvNHdheFZ3IiwicDJjIjoxMDAwLCJ2ZXIiOiIxIiwiZW5jIjoiQTI1NkdDTSIsImFsZyI6IlBCRVMyLUhTNTEyK0EyNTZLVyJ9.9kplCkQsV2fSs_yKbrSrBThlez9c9TGTKHtFwkSIsFwltvr0LPMKvQ.U_LiMl2IMK8w6c9F.4UTQaW_zZ3zsDPpcAXiVMOy5BGyixPorz0HU6zNSHM5-q1oUrz2bi404YL7ZfVq91xqI0naegmd1dV_ZfLVn9o41RkCx7fu5JkruIsb1JOZkJNvrRxsU0qnTR6QthzdodoTb5dLO9Z7kpQILK1GZg4qwhhypBaBDO6ZXUE4XjCPoUQ.YhLyZWkghOvPDfrGP3fLgw",
+      "domain": "login.okta.vonage.com",
+      "path": "/",
+      "expires": 1793787908.692039,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "luf_-626012619",
+      "value": "eyJ6aXAiOiJERUYiLCJ2ZXIiOiIxIiwiYWxpYXMiOiJlbmNyeXB0aW9ua2V5Iiwib2lkIjoiMDBvMWtzMmpwNHoydEJQSm0waTciLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiZGlyIiwidGltZXN0YW1wIjoxNzYyMjQ1MzE0MjI0fQ..X9Sl2IXxiF_oCjx1.vnLiF5L-ihGb9aTTitn2lya6Myd84jBdqoziv0IXCxcT9eiC9HW6JcdnN9n8KtOBoRxa6PCsaiuQHhEWeoOWLmIMAy4rsqJTZccTeUQUk8cD7KddfPmPUKjnipF561bAc5FvLC8UBg3W24W7oyiRf5J5DKARDk5vXsTzAY6hR-sDBW3M30vUhpEfPJEvqX6VNOgEBBIgPtvL8rFkFaMDzKTR88pMR434eJe9KrHMVj8mXaE-nBw1yIYATpwV1NpAA1MaqwqgIrc.0AYrlfDUBzXf0mr9NS9dhQ",
+      "domain": "login.okta.vonage.com",
+      "path": "/",
+      "expires": 1764837319.127726,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "autolaunch_triggered",
+      "value": "true",
+      "domain": "login.okta.vonage.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "idx",
+      "value": "eyJ6aXAiOiJERUYiLCJ2ZXIiOiIxIiwiYWxpYXMiOiJlbmNyeXB0aW9ua2V5Iiwib2lkIjoiMDBvMWtzMmpwNHoydEJQSm0waTciLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiZGlyIiwieHNpZCI6ImlkeDlSUll1Z0tVVHdLVk5IdTlNWHZOZEEifQ..bwt2kJ9CynjI_Rnr.S1Bfgzo0S3-Ob-ZIHDeOYNm9364RfuIuzhHJOXAsnYeoJYCZl5OPzTBc3gHSDUj8qmr73ghiCE5CWLR6aqR6tAv33INsJSLQ9wVhyGLyiyKh23xAfv_aZyilUtFIG_a1b-AEREqG1PS1tiMxBvgysA6oB2Fucn7VVTYn1WeIbwXMZhHr3-IshKE_L65gTNfalH4pmJKZx5J0DBD8gNzFh19wfeEVKMazKWWQ61gYXTKTqO99yWb3JVxeMyMv__sCyR5Uj9Nt-tvk3rpkrouvlD9ulQYUunFZXzaCBSJx9Ila2KnYv3eFflXQPWmuMp1V605WV6d0_BnS8rg53O5pE2hguKd8EDO9VPoPxEUYzsgYRZZZo5GU8JDQTSTF8Zm9c0b8WWoQDqiixkIrY54KItVc101bSU-3ZUB_SZf3zj4hirqBEg-bteIdohdS1RGDVqYmf-wlcDxbzAi9OVO98-dEANeCw9qy53ix2CzgmC65LcMY6FttsFSrzpzypV_hARaDJ4152RCMu0ofV9aIUyZwXkdqR-6_9OLC9TMtdG134o61kjmhei1D4Nc2PE1qYPik4mgmPmmoeHV6IbDBu3qdhivqsnA5_8p77lwz682n2LAUO1N844A2zBaR14b37-QwFlhAMahhcTIdSMGkGm0cogUNqGcwl9YkA72VyH2P0b4zvmYYPcI7IWK4YYGtWuN4djULi91XvsA2BNghY2LxCzfBrUlAfj8iLyJUrDi87heVZN9J1v9ry-mcqwHGhcmBIMpOZ9TDpGZf5I8My_xAQgTq9FAYxB-c6gXuFn7yFmIYGkY_5zHvxbDuMUANpn6_y1BFMGs7L2Ca52B4ndBcsdf3FC04xpYln3BF3K-63-yA14hll5-1mAwryrjJCxVPMgCnlAR9x624bbCGXPTq8zp-76Tgb1oQ4N14p1dWzbsDLIweJNhyyfSh96-n7bznlQqDuiTL2bpk8s3DwDTIy5QlCQk0oI7spjUNQVtmxMlq6zzgYDimhgwsB5HKZQOGx08NsCe5nnlkMLB6Sjt6akLsEy3FUDRcjEHMsCsFaQM4LWTS.AVqMsnMWpY9quawRWyEw4A",
+      "domain": "login.okta.vonage.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "413053DC827BABCE4E5B1848DFF886EA",
+      "domain": "login.okta.vonage.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "srefresh",
+      "value": "1762251909379",
+      "domain": "login.okta.vonage.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://login.okta.vonage.com",
+      "localStorage": [
+        {
+          "name": "okta-cache-storage",
+          "value": "{\"https://login.okta.vonage.com/.well-known/openid-configuration\":{\"expiresAt\":1762338300,\"response\":{\"issuer\":\"https://login.okta.vonage.com\",\"authorization_endpoint\":\"https://login.okta.vonage.com/oauth2/v1/authorize\",\"token_endpoint\":\"https://login.okta.vonage.com/oauth2/v1/token\",\"userinfo_endpoint\":\"https://login.okta.vonage.com/oauth2/v1/userinfo\",\"registration_endpoint\":\"https://login.okta.vonage.com/oauth2/v1/clients\",\"jwks_uri\":\"https://login.okta.vonage.com/oauth2/v1/keys\",\"response_types_supported\":[\"code\",\"id_token\",\"code id_token\",\"code token\",\"id_token token\",\"code id_token token\"],\"response_modes_supported\":[\"query\",\"fragment\",\"form_post\",\"okta_post_message\"],\"grant_types_supported\":[\"authorization_code\",\"implicit\",\"refresh_token\",\"password\",\"urn:ietf:params:oauth:grant-type:device_code\",\"urn:openid:params:grant-type:ciba\",\"urn:okta:params:oauth:grant-type:otp\",\"http://auth0.com/oauth/grant-type/mfa-otp\",\"urn:okta:params:oauth:grant-type:oob\",\"http://auth0.com/oauth/grant-type/mfa-oob\"],\"subject_types_supported\":[\"public\"],\"id_token_signing_alg_values_supported\":[\"RS256\"],\"scopes_supported\":[\"openid\",\"email\",\"profile\",\"address\",\"phone\",\"offline_access\",\"groups\"],\"token_endpoint_auth_methods_supported\":[\"client_secret_basic\",\"client_secret_post\",\"client_secret_jwt\",\"private_key_jwt\",\"none\"],\"claims_supported\":[\"iss\",\"ver\",\"sub\",\"aud\",\"iat\",\"exp\",\"jti\",\"auth_time\",\"amr\",\"idp\",\"nonce\",\"name\",\"nickname\",\"preferred_username\",\"given_name\",\"middle_name\",\"family_name\",\"email\",\"email_verified\",\"profile\",\"zoneinfo\",\"locale\",\"address\",\"phone_number\",\"picture\",\"website\",\"gender\",\"birthdate\",\"updated_at\",\"at_hash\",\"c_hash\"],\"code_challenge_methods_supported\":[\"S256\"],\"introspection_endpoint\":\"https://login.okta.vonage.com/oauth2/v1/introspect\",\"introspection_endpoint_auth_methods_supported\":[\"client_secret_basic\",\"client_secret_post\",\"client_secret_jwt\",\"private_key_jwt\",\"none\"],\"revocation_endpoint\":\"https://login.okta.vonage.com/oauth2/v1/revoke\",\"revocation_endpoint_auth_methods_supported\":[\"client_secret_basic\",\"client_secret_post\",\"client_secret_jwt\",\"private_key_jwt\",\"none\"],\"end_session_endpoint\":\"https://login.okta.vonage.com/oauth2/v1/logout\",\"request_parameter_supported\":true,\"request_object_signing_alg_values_supported\":[\"HS256\",\"HS384\",\"HS512\",\"RS256\",\"RS384\",\"RS512\",\"ES256\",\"ES384\",\"ES512\"],\"device_authorization_endpoint\":\"https://login.okta.vonage.com/oauth2/v1/device/authorize\",\"pushed_authorization_request_endpoint\":\"https://login.okta.vonage.com/oauth2/v1/par\",\"backchannel_token_delivery_modes_supported\":[\"poll\"],\"backchannel_authentication_request_signing_alg_values_supported\":[\"HS256\",\"HS384\",\"HS512\",\"RS256\",\"RS384\",\"RS512\",\"ES256\",\"ES384\",\"ES512\"],\"dpop_signing_alg_values_supported\":[\"RS256\",\"RS384\",\"RS512\",\"ES256\",\"ES384\",\"ES512\"],\"headers\":{\"accept-ch\":\"Sec-CH-UA-Platform-Version\",\"cache-control\":\"max-age=86400, must-revalidate\",\"content-security-policy-report-only\":\"frame-ancestors 'self' https://gcn.vonage.com https://autoeazy.main0.auto.prd.use1.vonagenetworks.net https://vonage.chatbot.aisera.cloud https://rbac.ite.vonage.com\",\"content-type\":\"application/json\",\"date\":\"Tue, 04 Nov 2025 10:24:55 GMT\",\"expires\":\"Wed, 05 Nov 2025 10:24:51 GMT\",\"p3p\":\"CP=\\\"HONK\\\"\",\"referrer-policy\":\"strict-origin-when-cross-origin\",\"server\":\"nginx\",\"strict-transport-security\":\"max-age=315360000; includeSubDomains\",\"vary\":\"Origin\",\"x-content-type-options\":\"nosniff\",\"x-okta-request-id\":\"aQnUd1jUdxtr8keQdMNZHgAHCoc\",\"x-xss-protection\":\"0\"}}},\"https://login.okta.vonage.com/oauth2/v1/keys\":{\"expiresAt\":1762338308,\"response\":{\"keys\":[{\"kty\":\"RSA\",\"alg\":\"RS256\",\"kid\":\"WF7uKNKBQm1FhMHBr7YuggbgjXhY1FAw6JcPWO93xjc\",\"use\":\"sig\",\"e\":\"AQAB\",\"n\":\"slvJycuS0589JXbC7JSaz62pMs5QNVDamoZtPxKPhB3vY0r_hX6MCjYEGGTrsY5zianLTiHhH6ORlKJxTdi2rTmkpufPGmj5A4wvPqSco9K0yuWrM54eh1KTGUjXvEofh9g2vQjDGmruGtjFcUyef2ftxYbcz0iVbbBpsRbrpm9PZlaEQfKJuKNXCxVqlFpgydPNFBByyRNhE6LVqBqg7CGNSD1-Lb2XUvV8rWEeWnHr1Wz-GNu1zqQCW30QdseGyupJ7tgCEjhxwcuUSPziR58kwcVsJ_69iGJmsYUX5pvjVWCQqyqM55kYkvteWXCg5ayK5RSA6wv3mzMN2gGg_w\"}],\"headers\":{\"accept-ch\":\"Sec-CH-UA-Platform-Version\",\"cache-control\":\"max-age=232510, must-revalidate\",\"content-security-policy-report-only\":\"default-src 'self' nvm.okta-emea.com login.okta.vonage.com *.oktacdn.com; connect-src 'self' nvm.okta-emea.com nvm-admin.okta-emea.com login.okta.vonage.com *.oktacdn.com *.mixpanel.com *.mapbox.com nvm.kerberos.okta-emea.com nvm.mtls.okta-emea.com *.authenticatorlocalprod.com:8769 http://localhost:8769 http://127.0.0.1:8769 *.authenticatorlocalprod.com:65111 http://localhost:65111 http://127.0.0.1:65111 *.authenticatorlocalprod.com:65121 http://localhost:65121 http://127.0.0.1:65121 *.authenticatorlocalprod.com:65131 http://localhost:65131 http://127.0.0.1:65131 *.authenticatorlocalprod.com:65141 http://localhost:65141 http://127.0.0.1:65141 *.authenticatorlocalprod.com:65151 http://localhost:65151 http://127.0.0.1:65151 https://oinmanager.okta.com data: *.ingest.sentry.io; script-src 'unsafe-inline' 'self' 'report-sample' nvm.okta-emea.com login.okta.vonage.com *.oktacdn.com; style-src 'unsafe-inline' 'self' 'report-sample' nvm.okta-emea.com login.okta.vonage.com *.oktacdn.com; frame-src 'self' nvm.okta-emea.com nvm-admin.okta-emea.com login.okta.vonage.com login.okta.com com-okta-authenticator:; img-src 'self' nvm.okta-emea.com login.okta.vonage.com *.oktacdn.com *.tiles.mapbox.com *.mapbox.com data: blob:; font-src 'self' nvm.okta-emea.com login.okta.vonage.com data: *.oktacdn.com fonts.gstatic.com; frame-ancestors 'self'\",\"content-type\":\"application/json\",\"date\":\"Tue, 04 Nov 2025 10:25:03 GMT\",\"expires\":\"Fri, 07 Nov 2025 03:00:13 GMT\",\"p3p\":\"CP=\\\"HONK\\\"\",\"referrer-policy\":\"strict-origin-when-cross-origin\",\"server\":\"nginx\",\"strict-transport-security\":\"max-age=315360000; includeSubDomains\",\"vary\":\"Origin\",\"x-content-type-options\":\"nosniff\",\"x-okta-request-id\":\"aQnUf7HhdFvpdsMobllkZwAMfaI\",\"x-xss-protection\":\"0\"}}}}"
+        },
+        {
+          "name": "i18nextLng",
+          "value": "en"
+        },
+        {
+          "name": "okta-original-uri-storage",
+          "value": "{}"
+        },
+        {
+          "name": "okta-shared-transaction-storage",
+          "value": "{}"
+        },
+        {
+          "name": "okta-token-storage",
+          "value": "{\"idToken\":{\"idToken\":\"eyJraWQiOiJXRjd1S05LQlFtMUZoTUhCcjdZdWdnYmdqWGhZMUZBdzZKY1BXTzkzeGpjIiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiIwMHVoazZsYTYwek1QR2JDYTBpNyIsIm5hbWUiOiJTYWlyYW0gSmFra2FtIiwibG9jYWxlIjoiIiwiZW1haWwiOiJTYWlyYW0uSmFra2FtQHZvbmFnZS5jb20iLCJ2ZXIiOjEsImlzcyI6Imh0dHBzOi8vbG9naW4ub2t0YS52b25hZ2UuY29tIiwiYXVkIjoib2t0YS4yYjE5NTljOC1iY2MwLTU2ZWItYTU4OS1jZmNmYjc0MjJmMjYiLCJpYXQiOjE3NjIyNTE5MDMsImV4cCI6MTc2MjI1NTUwMywianRpIjoiSUQueEo3NjF0akZuNGQ0Z2xzdDRIVDNnNm1CTE5SUi16WGZUVUtpSnZQRk4xbyIsImFtciI6WyJtZmEiLCJvdHAiLCJwd2QiXSwiaWRwIjoiMDBvMWtzMmpwNHoydEJQSm0waTciLCJub25jZSI6IldycmhNbGk5Y3VjOXdjMFJsVk5KckNXNjREOXJhRXNkNFZaM3dPdWZkaVJOTzRVaDFBeXhObnZiNEV1Sm9XWnYiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJvdXRzLXNqYWtrYW0iLCJnaXZlbl9uYW1lIjoiU2FpcmFtIiwibWlkZGxlX25hbWUiOiIiLCJmYW1pbHlfbmFtZSI6Ikpha2thbSIsInpvbmVpbmZvIjoiQXNpYS9Lb2xrYXRhIiwiZW1haWxfdmVyaWZpZWQiOmZhbHNlLCJhdXRoX3RpbWUiOjE3NjIyNDUzMTMsImF0X2hhc2giOiJpTmc2VnV5OWZBMU51Y2x1aTAtSU53In0.TC76jDFxu_7gEmcxSIuU9SyTmzTQ5sSlauBO0MX0-QtCLCK0R287SjcPLsSW2gXU6asc6WdK-uRPaV9gh95UR7-lsAANLdK7D9IBdbf_pixYrduzaPamRMXxFXLtyyB_TAWNHnmQP0r1EzWuI-pw2pE0Hq4zqMI5GHRAEaOTZHRFtggcJItX7XBZdNadoBWveIE1WuLurCZLv0yjGZx5WFC7h5VluT--Hd16qsHyadxffa7o9AGtEJqcZPGbG6TJ_2P0Nq4x---NuiG0kWK-gGnJE0_f1N1Mcpd9w5HPm-zrObXqHuvYgxLT4fCAek-x5LKanisfVAGnTP9zj9nK2Q\",\"claims\":{\"sub\":\"00uhk6la60zMPGbCa0i7\",\"name\":\"Sairam Jakkam\",\"locale\":\"\",\"email\":\"Sairam.Jakkam@vonage.com\",\"ver\":1,\"iss\":\"https://login.okta.vonage.com\",\"aud\":\"okta.2b1959c8-bcc0-56eb-a589-cfcfb7422f26\",\"iat\":1762251903,\"exp\":1762255503,\"jti\":\"ID.xJ761tjFn4d4glst4HT3g6mBLNRR-zXfTUKiJvPFN1o\",\"amr\":[\"mfa\",\"otp\",\"pwd\"],\"idp\":\"00o1ks2jp4z2tBPJm0i7\",\"nonce\":\"WrrhMli9cuc9wc0RlVNJrCW64D9raEsd4VZ3wOufdiRNO4Uh1AyxNnvb4EuJoWZv\",\"preferred_username\":\"outs-sjakkam\",\"given_name\":\"Sairam\",\"middle_name\":\"\",\"family_name\":\"Jakkam\",\"zoneinfo\":\"Asia/Kolkata\",\"email_verified\":false,\"auth_time\":1762245313,\"at_hash\":\"iNg6Vuy9fA1Nuclui0-INw\"},\"expiresAt\":1762255508,\"scopes\":[\"openid\",\"profile\",\"email\",\"okta.users.read.self\",\"okta.users.manage.self\",\"okta.internal.enduser.read\",\"okta.internal.enduser.manage\",\"okta.enduser.dashboard.read\",\"okta.enduser.dashboard.manage\",\"okta.myAccount.sessions.manage\",\"okta.internal.navigation.enduser.read\"],\"authorizeUrl\":\"https://login.okta.vonage.com/oauth2/v1/authorize\",\"issuer\":\"https://login.okta.vonage.com\",\"clientId\":\"okta.2b1959c8-bcc0-56eb-a589-cfcfb7422f26\"},\"accessToken\":{\"accessToken\":\"eyJraWQiOiJXRjd1S05LQlFtMUZoTUhCcjdZdWdnYmdqWGhZMUZBdzZKY1BXTzkzeGpjIiwidHlwIjoiYXBwbGljYXRpb24vb2t0YS1pbnRlcm5hbC1hdCtqd3QiLCJhbGciOiJSUzI1NiJ9.eyJ2ZXIiOjEsImp0aSI6IkFULm85V0ZkTS1TblNuZnlmbzBpaGVLVjloSFVWVTh5ZlJsdTNNdUZnUDZJQmMiLCJpc3MiOiJodHRwczovL2xvZ2luLm9rdGEudm9uYWdlLmNvbSIsImF1ZCI6Imh0dHBzOi8vbG9naW4ub2t0YS52b25hZ2UuY29tIiwic3ViIjoib3V0cy1zamFra2FtIiwiaWF0IjoxNzYyMjUxOTAzLCJleHAiOjE3NjIyNTU1MDMsImNpZCI6Im9rdGEuMmIxOTU5YzgtYmNjMC01NmViLWE1ODktY2ZjZmI3NDIyZjI2IiwidWlkIjoiMDB1aGs2bGE2MHpNUEdiQ2EwaTciLCJzY3AiOlsib3BlbmlkIiwicHJvZmlsZSIsImVtYWlsIiwib2t0YS51c2Vycy5yZWFkLnNlbGYiLCJva3RhLnVzZXJzLm1hbmFnZS5zZWxmIiwib2t0YS5pbnRlcm5hbC5lbmR1c2VyLnJlYWQiLCJva3RhLmludGVybmFsLmVuZHVzZXIubWFuYWdlIiwib2t0YS5lbmR1c2VyLmRhc2hib2FyZC5yZWFkIiwib2t0YS5lbmR1c2VyLmRhc2hib2FyZC5tYW5hZ2UiLCJva3RhLm15QWNjb3VudC5zZXNzaW9ucy5tYW5hZ2UiLCJva3RhLmludGVybmFsLm5hdmlnYXRpb24uZW5kdXNlci5yZWFkIl0sImF1dGhfdGltZSI6MTc2MjI0NTMxM30.N1pCjeodtt4gHCNSEPQgcOzMvs0jZ7ys5XVdSXvz_AGeuvHnntdyU9BFPz97gD-GtqjBpcbovoueSaw96knbGF3LCvdyJgQpCZpXUtKjK07Yfrs3DKOXZ_NIGf_xHzgAfzuMIUWoPSUdSV6l-_k1unrxkvpoTRm0Vccej0OkpEb-pz1-OWGpTFF40nwaIEdG2kiZm3tInrxvW51z05Doi3DIH-EEYoZtgus6BjvgEdB-s4dA_vrKG1vkmZEm_NrX-jmGk6SnUXGE5v5y6yZIq1LXLrFmaMRX2I2wtMTbOffriwZz667R3ZzheDZbWK6gSRUK6BNA0ySkEWSQui61Hg\",\"claims\":{\"ver\":1,\"jti\":\"AT.o9WFdM-SnSnfyfo0iheKV9hHUVU8yfRlu3MuFgP6IBc\",\"iss\":\"https://login.okta.vonage.com\",\"aud\":\"https://login.okta.vonage.com\",\"sub\":\"outs-sjakkam\",\"iat\":1762251903,\"exp\":1762255503,\"cid\":\"okta.2b1959c8-bcc0-56eb-a589-cfcfb7422f26\",\"uid\":\"00uhk6la60zMPGbCa0i7\",\"scp\":[\"openid\",\"profile\",\"email\",\"okta.users.read.self\",\"okta.users.manage.self\",\"okta.internal.enduser.read\",\"okta.internal.enduser.manage\",\"okta.enduser.dashboard.read\",\"okta.enduser.dashboard.manage\",\"okta.myAccount.sessions.manage\",\"okta.internal.navigation.enduser.read\"],\"auth_time\":1762245313},\"expiresAt\":1762255508,\"tokenType\":\"Bearer\",\"scopes\":[\"openid\",\"profile\",\"email\",\"okta.users.read.self\",\"okta.users.manage.self\",\"okta.internal.enduser.read\",\"okta.internal.enduser.manage\",\"okta.enduser.dashboard.read\",\"okta.enduser.dashboard.manage\",\"okta.myAccount.sessions.manage\",\"okta.internal.navigation.enduser.read\"],\"authorizeUrl\":\"https://login.okta.vonage.com/oauth2/v1/authorize\",\"userinfoUrl\":\"https://login.okta.vonage.com/oauth2/v1/userinfo\"}}"
+        }
+      ]
+    }
+  ]
+}

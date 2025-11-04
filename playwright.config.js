@@ -1,0 +1,47 @@
+// @ts-check
+const { defineConfig, devices } = require('@playwright/test');
+const path = require('path');
+
+module.exports = defineConfig({
+  testDir: './tests',
+
+  fullyParallel: true,
+  forbidOnly: !!process.env.CI,
+  retries: process.env.CI ? 2 : 0,
+  workers: process.env.CI ? 1 : undefined,
+  reporter: 'html',
+
+  use: {
+    trace: 'on-first-retry',
+
+    // ✅ Reuse authenticated session (skips login + 2FA)
+    storageState: path.resolve(__dirname, 'storageState.json'),
+
+    // Optional additional config
+    headless: true,
+    viewport: { width: 1280, height: 720 },
+    ignoreHTTPSErrors: true
+  },
+
+  projects: [
+    {
+      name: 'chromium',
+      use: { ...devices['Desktop Chrome'] },
+    },
+    {
+      name: 'firefox',
+      use: { ...devices['Desktop Firefox'] },
+    },
+    {
+      name: 'webkit',
+      use: { ...devices['Desktop Safari'] },
+    }
+  ],
+
+  // Optionally start a dev server before running tests
+  // webServer: {
+  //   command: 'npm run start',
+  //   url: 'http://127.0.0.1:3000',
+  //   reuseExistingServer: !process.env.CI,
+  // },
+});
