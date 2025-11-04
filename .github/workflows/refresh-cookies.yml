@@ -1,36 +1,36 @@
-name: Refresh Cookies Automation
+# name: Refresh Cookies Automation
 
-on:
-  schedule:
-    - cron: "*/5 * * * *"  # every 5 minutes
-  workflow_dispatch:
+# on:
+#   schedule:
+#     - cron: "*/5 * * * *"  # every 5 minutes
+#   workflow_dispatch:
 
-jobs:
-  run-refresh:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+# jobs:
+#   run-refresh:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout repository
+#         uses: actions/checkout@v4
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 18
+#       - name: Set up Node.js
+#         uses: actions/setup-node@v4
+#         with:
+#           node-version: 18
 
-      - name: Install dependencies
-        run: npm ci
+#       - name: Install dependencies
+#         run: npm ci
 
-      - name: Install Playwright browsers
-        run: npx playwright install --with-deps
+#       - name: Install Playwright browsers
+#         run: npx playwright install --with-deps
 
-      - name: Run login feature to refresh cookies
-        env:
-          USERNAME: ${{ secrets.USERNAME }}
-          PASSWORD: ${{ secrets.PASSWORD }}
-        run: npm run test -- --tags @vonageLogin
+#       - name: Run login feature to refresh cookies
+#         env:
+#           USERNAME: ${{ secrets.USERNAME }}
+#           PASSWORD: ${{ secrets.PASSWORD }}
+#         run: npm run test -- --tags @vonageLogin
 
-      - name: Upload refreshed cookies
-        uses: actions/upload-artifact@v4
-        with:
-          name: cookies
-          path: cookies.json
+#       - name: Upload refreshed cookies
+#         uses: actions/upload-artifact@v4
+#         with:
+#           name: cookies
+#           path: cookies.json
